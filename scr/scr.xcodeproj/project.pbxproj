@@ -57,9 +57,17 @@
 		BB3D25DC1D8D775900FF4B25 /* scr */ = {
 			isa = PBXGroup;
 			children = (
+				BB3D25E41D8D776500FF4B25 /* class */,
 				BB3D25DD1D8D775900FF4B25 /* main.cpp */,
 			);
 			path = scr;
+			sourceTree = "<group>";
+		};
+		BB3D25E41D8D776500FF4B25 /* class */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = class;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
